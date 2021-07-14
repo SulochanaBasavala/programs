@@ -1,1 +1,1 @@
-Use these languages HTML, CSS and JS
+Using HTML,CSS in Notepad++
